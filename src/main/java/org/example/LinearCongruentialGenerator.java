@@ -3,6 +3,8 @@ package org.example;
 import java.util.*;
 import java.util.stream.Stream;
 
+//comment check
+
 public class LinearCongruentialGenerator {
 
     Long seed;
